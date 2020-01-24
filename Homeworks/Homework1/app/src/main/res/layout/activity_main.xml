@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:id="@+id/billAmount"
+            android:hint="Bill Amount"
+            android:imeOptions="actionDone"
+            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
+            android:textAlignment="center" android:layout_marginTop="64dp" app:layout_constraintTop_toTopOf="parent"
+            android:inputType="numberDecimal"/>
+    <TextView
+            android:text="Tip: $0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tipAmount"
+            android:textSize="18sp"
+            android:textAlignment="center" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintHorizontal_bias="0.5" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="16dp" app:layout_constraintTop_toBottomOf="@+id/percent"/>
+    <TextView
+            android:id="@+id/totalCost"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintHorizontal_bias="0.501" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="center"
+            android:textSize="24sp" android:layout_marginBottom="112dp"
+            app:layout_constraintBottom_toBottomOf="parent" android:text="Total: $0"/>
+    <SeekBar
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:id="@+id/tipBar" android:max="100" android:progress="1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginTop="24dp"
+            app:layout_constraintTop_toBottomOf="@+id/billAmount" style="@style/Widget.AppCompat.SeekBar"/>
+    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:id="@+id/percent"
+            android:imeOptions="actionDone"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.501"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tipBar" android:textAlignment="center"
+            android:background="@null"
+            android:selectAllOnFocus="false" android:hint="0%" android:inputType="number"/>
+    <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" app:srcCompat="@android:drawable/arrow_up_float"
+            android:id="@+id/roundUp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="142dp" android:layout_marginTop="24dp"
+            app:layout_constraintTop_toBottomOf="@+id/tipAmount" app:layout_constraintEnd_toStartOf="@+id/roundDown"
+            android:layout_marginEnd="8dp"/>
+    <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" app:srcCompat="@android:drawable/arrow_down_float"
+            android:id="@+id/roundDown"
+            android:layout_marginStart="8dp"
+            app:layout_constraintStart_toEndOf="@+id/roundUp" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="142dp" android:layout_marginTop="24dp"
+            app:layout_constraintTop_toBottomOf="@+id/tipAmount"/>
+</android.support.constraint.ConstraintLayout>
