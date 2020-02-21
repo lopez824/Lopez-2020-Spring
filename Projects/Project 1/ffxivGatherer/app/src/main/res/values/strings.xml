@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ffxivGatherer</string>
+    <string name="currentTimeLabel">Current Time:</string>
+    <string name="currentTimeView">Time</string>
+    <string name="eorzeanTimeLabel">Eorzean Time:</string>
+    <string name="eorzeanTimeView">Time</string>
+    <string name="buttonLabel">Check Active Items</string>
+    <string name="emptyList">Sorry! No items here yet...</string>
+</resources>
