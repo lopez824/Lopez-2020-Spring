@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_favorite"
+        android:icon="@drawable/ic_menu_favorites"
+        android:title="@string/action_favorite"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_menu_search"
+        android:title="@string/action_search"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"/>
+
+    <item
+        android:id="@+id/action_all"
+        android:orderInCategory="100"
+        android:title="@string/action_all"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_abc"
+        android:orderInCategory="100"
+        android:title="@string/action_abc"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_area"
+        android:orderInCategory="100"
+        android:title="@string/action_area"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_time"
+        android:orderInCategory="100"
+        android:title="@string/action_time"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_botanist"
+        android:orderInCategory="100"
+        android:title="@string/action_botanist"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_miner"
+        android:orderInCategory="100"
+        android:title="@string/action_miner"
+        app:showAsAction="never" />
+
+</menu>

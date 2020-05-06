@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Disciple of the Land</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Disciple of the Land</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_node">Gathering Nodes</string>
+    <string name="label_node">Nodes</string>
+    <string name="menu_fishing">Fishing</string>
+    <string name="menu_weather">Local Weather</string>
+    <string name="label_weather">Weather</string>
+
+    <string name="action_favorite">Favorites</string>
+    <string name="action_search">Search</string>
+
+    <string name="action_all">Show All</string>
+    <string name="action_abc">Sort by ABC</string>
+    <string name="action_area">Sort by Area</string>
+    <string name="action_time">Sort by Time</string>
+    <string name="action_botanist">Botanist Filter</string>
+    <string name="action_miner">Miner Filter</string>
+
+    <string name ="am">AM</string>
+    <string name ="pm">PM</string>
+    <string name="home_second">Home Second</string>
+</resources>

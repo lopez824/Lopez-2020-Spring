@@ -1,0 +1,366 @@
+[
+	{
+		"itemName":"Coblyn Larva",
+		"itemTime":9,
+		"itemArea":"Eastern Thanalan",
+		"itemClass":"Miner",
+		"itemRegion": "Thanalan"
+	},
+	{
+		"itemName":"Grade 3 La Noscean Topsoil",
+		"itemTime":19,
+		"itemArea":"Middle La Noscea",
+		"itemClass":"Miner",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Grade 3 Shroud Topsoil",
+		"itemTime":6,
+		"itemArea":"South Shroud",
+		"itemClass":"Miner",
+		"itemRegion": "Shroud"
+	},
+	{
+		"itemName":"Grade 3 Thanalan Topsoil",
+		"itemTime":5,
+		"itemArea":"Western Thanalan",
+		"itemClass":"Miner",
+		"itemRegion": "Thanalan"
+	},
+	{
+		"itemName":"Astral Rock",
+		"itemTime":21,
+		"itemArea":"Coerthas Central Highlands",
+		"itemClass":"Miner",
+		"itemRegion": "Highlands"
+	},
+	{
+		"itemName":"Darksteel Ore",
+		"itemTime":1,
+		"itemArea":"Coerthas Central Highlands",
+		"itemClass":"Miner",
+		"itemRegion": "Highlands"
+	},
+	{
+		"itemName":"Gold Ore",
+		"itemTime":9,
+		"itemArea":"Eastern Thanalan",
+		"itemClass":"Miner",
+		"itemRegion": "Thanalan"
+	},
+	{
+		"itemName":"Gold Sand",
+		"itemTime":5,
+		"itemArea":"Eastern Thanalan",
+		"itemClass":"Miner",
+		"itemRegion": "Thanalan"
+	},
+	{
+		"itemName":"Black Limestone",
+		"itemTime":8,
+		"itemArea":"Western La Noscea",
+		"itemClass":"Miner",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Ferberite",
+		"itemTime":3,
+		"itemArea":"Northern Thanalan",
+		"itemClass":"Miner",
+		"itemRegion": "Thanalan"
+	},
+	{
+		"itemName":"Gregarious Worm",
+		"itemTime":9,
+		"itemArea":"Eastern Thanalan",
+		"itemClass":"Miner",
+		"itemRegion": "Thanalan"
+	},
+	{
+		"itemName":"Native Gold",
+		"itemTime":4,
+		"itemArea":"Central Thanalan",
+		"itemClass":"Miner",
+		"itemRegion": "Thanalan"
+	},
+	{
+		"itemName":"Raw Diamond",
+		"itemTime":4,
+		"itemArea":"Central Thanalan",
+		"itemClass":"Miner",
+		"itemRegion": "Thanalan"
+	},
+	{
+		"itemName":"Raw Emerald",
+		"itemTime":4,
+		"itemArea":"Central Thanalan",
+		"itemClass":"Miner",
+		"itemRegion": "Thanalan"
+	},
+	{
+		"itemName":"Raw Iolite",
+		"itemTime":3,
+		"itemArea":"Northern Thanalan",
+		"itemClass":"Miner",
+		"itemRegion": "Thanalan"
+	},
+	{
+		"itemName":"Raw Ruby",
+		"itemTime":18,
+		"itemArea":"Lower La Noscea",
+		"itemClass":"Miner",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Raw Sapphire",
+		"itemTime":18,
+		"itemArea":"Lower La Noscea",
+		"itemClass":"Miner",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Raw Topaz",
+		"itemTime":3,
+		"itemArea":"Northern Thanalan",
+		"itemClass":"Miner",
+		"itemRegion": "Thanalan"
+	},
+	{
+		"itemName":"Umbral Rock",
+		"itemTime":6,
+		"itemArea":"South Shroud",
+		"itemClass":"Miner",
+		"itemRegion": "Shroud"
+	},
+	{
+		"itemName":"Volcanic Rock Salt",
+		"itemTime":17,
+		"itemArea":"Eastern La Noscea",
+		"itemClass":"Miner",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Antumbral Rock",
+		"itemTime":2,
+		"itemArea":"Eastern Thanalan",
+		"itemClass":"Miner",
+		"itemRegion": "Thanalan"
+	},
+	{
+		"itemName":"Platinum Ore",
+		"itemTime":4,
+		"itemArea":"Southern Thanalan",
+		"itemClass":"Miner",
+		"itemRegion": "Thanalan"
+	},
+	{
+		"itemName":"Pumice",
+		"itemTime":1,
+		"itemArea":"Eastern La Noscea",
+		"itemClass":"Miner",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Virgin Basilisk Egg",
+		"itemTime":17,
+		"itemArea":"Northern Thanalan",
+		"itemClass":"Miner",
+		"itemRegion": "Thanalan"
+	},
+	{
+		"itemName":"Kidragora",
+		"itemTime":21,
+		"itemArea":"East Shroud",
+		"itemClass":"Botanist",
+		"itemRegion": "Shroud"
+	},
+	{
+		"itemName":"Black Truffle",
+		"itemTime":13,
+		"itemArea":"Eastern Thanalan",
+		"itemClass":"Botanist",
+		"itemRegion": "Thanalan"
+	},
+	{
+		"itemName":"Prickly Pineapple",
+		"itemTime":9,
+		"itemArea":"Eastern La Noscea",
+		"itemClass":"Botanist",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Dzemael Tomato Seeds",
+		"itemTime":13,
+		"itemArea":"Eastern La Noscea",
+		"itemClass":"Botanist",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Honey Lemon Seeds",
+		"itemTime":5,
+		"itemArea":"Eastern La Noscea",
+		"itemClass":"Botanist",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Prickly Pineapple Seeds",
+		"itemTime":9,
+		"itemArea":"Eastern La Noscea",
+		"itemClass":"Botanist",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Silkworm Cocoon",
+		"itemTime":1,
+		"itemArea":"East Shroud",
+		"itemClass":"Botanist",
+		"itemRegion": "Shroud"
+	},
+	{
+		"itemName":"Spruce Log",
+		"itemTime":9,
+		"itemArea":"Coerthas Central Highlands",
+		"itemClass":"Botanist",
+		"itemRegion": "Highlands"
+	},
+	{
+		"itemName":"Thavnarian Mistletoe",
+		"itemTime":17,
+		"itemArea":"Coerthas Central Highlands",
+		"itemClass":"Botanist",
+		"itemRegion": "Highlands"
+	},
+	{
+		"itemName":"Trillium",
+		"itemTime":5,
+		"itemArea":"East Shroud",
+		"itemClass":"Botanist",
+		"itemRegion": "Shroud"
+	},
+	{
+		"itemName":"Trillium Bulb",
+		"itemTime":21,
+		"itemArea":"East Shroud",
+		"itemClass":"Botanist",
+		"itemRegion": "Shroud"
+	},
+	{
+		"itemName":"Vampire Plant",
+		"itemTime":13,
+		"itemArea":"Coerthas Central Highlands",
+		"itemClass":"Botanist",
+		"itemRegion": "Highlands"
+	},
+	{
+		"itemName":"Apricrot",
+		"itemTime":9,
+		"itemArea":"Middle La Noscea",
+		"itemClass":"Botanist",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Bamboo Stick",
+		"itemTime":7,
+		"itemArea":"Upper La Noscea",
+		"itemClass":"Botanist",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Blood Orange",
+		"itemTime":7,
+		"itemArea":"Upper La Noscea",
+		"itemClass":"Botanist",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Dzemael Tomato",
+		"itemTime":13,
+		"itemArea":"Eastern La Noscea",
+		"itemClass":"Botanist",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Fragrant Log",
+		"itemTime":2,
+		"itemArea":"South Shroud",
+		"itemClass":"Botanist",
+		"itemRegion": "Shroud"
+	},
+	{
+		"itemName":"Honey Lemon",
+		"itemTime":5,
+		"itemArea":"Eastern La Noscea",
+		"itemClass":"Botanist",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"La Noscean Leek",
+		"itemTime":8,
+		"itemArea":"Western La Noscea",
+		"itemClass":"Botanist",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Mazlaya Greens",
+		"itemTime":13,
+		"itemArea":"Eastern Thanalan",
+		"itemClass":"Botanist",
+		"itemRegion": "Thanalan"
+	},
+	{
+		"itemName":"Scarlet Sap",
+		"itemTime":3,
+		"itemArea":"North Shroud",
+		"itemClass":"Botanist",
+		"itemRegion": "Shroud"
+	},
+	{
+		"itemName":"Shroud Tea Leaves",
+		"itemTime":2,
+		"itemArea":"Central Shroud",
+		"itemClass":"Botanist",
+		"itemRegion": "Shroud"
+	},
+	{
+		"itemName":"Waterfowl Feather",
+		"itemTime":8,
+		"itemArea":"Western La Noscea",
+		"itemClass":"Botanist",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Young Cieldalaes Spinich",
+		"itemTime":6,
+		"itemArea":"Lower La Noscea",
+		"itemClass":"Botanist",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Redolent Log",
+		"itemTime":6,
+		"itemArea":"Central Shroud",
+		"itemClass":"Botanist",
+		"itemRegion": "Shroud"
+	},
+	{
+		"itemName":"Cypress Log",
+		"itemTime":10,
+		"itemArea":"Central Shroud",
+		"itemClass":"Botanist",
+		"itemRegion": "Shroud"
+	},
+	{
+		"itemName":"Ebony Log",
+		"itemTime":4,
+		"itemArea":"Middle La Noscea",
+		"itemClass":"Botanist",
+		"itemRegion": "La Noscea"
+	},
+	{
+		"itemName":"Rosemary",
+		"itemTime":17,
+		"itemArea":"East Shroud",
+		"itemClass":"Botanist",
+		"itemRegion": "Shroud"
+	}
+]
